@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: red;
+}
+
+.red-title {
+  background-color: black;
+  color: red;
+  padding: 15px;
+}
+
+.title {
+  background-color: black;
+  color: #fff;
+  padding: 15px;
+}

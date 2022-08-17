@@ -1,0 +1,21 @@
+.div_car {
+  background-color: #f1f1f1;
+}
+
+.div_car h1{
+  color: #504747;
+  margin: 5px;
+  padding: 5px;
+}
+
+.div_car ul {
+  color: #847b7b;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0px;
+  padding: 10px 100px;
+}
+
+
+
